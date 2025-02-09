@@ -1,0 +1,10 @@
+streamlit
+fastapi
+requests
+pydantic
+uvicorn
+pymupdf
+sentence-transformers
+faiss-cpu
+torch
+transformers
