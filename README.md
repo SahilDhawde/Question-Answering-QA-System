@@ -15,20 +15,20 @@ This project implements a Small Language Model (SLM)-based Question Answering (Q
 
 🛠️ Setup & Installation
 
-1. Clone the Repository
+1. Clone the Repository: 
 git clone https://github.com/yourusername/Question-Answering-QA-System.git
 cd Question-Answering-QA-System
 
-2. Install Dependencies
+2. Install Dependencies:
 pip install -r requirements.txt
   
-3. Run the Backend (FastAPI)
+3. Run the Backend (FastAPI):
 uvicorn app.main:app --reload
    
-4. Run the UI (Streamlit)
+4. Run the UI (Streamlit):
 streamlit run app/ui.py
 
-5. Access the Application
+5. Access the Application:
 The FastAPI backend will be available at: http://127.0.0.1:8000
 The Streamlit frontend will be available at: http://localhost:8501
 
