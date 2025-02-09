@@ -29,8 +29,8 @@ uvicorn app.main:app --reload
 streamlit run app/ui.py
 
 5. Access the Application:
-The FastAPI backend will be available at: http://127.0.0.1:8000
-The Streamlit frontend will be available at: http://localhost:8501
+The FastAPI backend will be available at: http://127.0.0.1:8000.
+The Streamlit frontend will be available at: http://localhost:8501.
 
 🔥 How It Works
 
