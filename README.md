@@ -7,15 +7,11 @@ This project implements a Small Language Model (SLM)-based Question Answering (Q
 
 ✅ Features
 
-## PDF-based QA: Users can upload a PDF and ask questions about its content.
-
-## Efficient Retrieval: FAISS is used to store and fetch relevant text passages.
-
-## Accurate Answering: A fine-tuned question-answering model extracts precise answers.
-
-## Web UI: Built with FastAPI (backend) + Streamlit (frontend) for an interactive experience.
-
-## Multi-question support: Users can ask multiple questions in one session.
+- PDF-based QA: Users can upload a PDF and ask questions about its content.
+- Efficient Retrieval: FAISS is used to store and fetch relevant text passages.
+- Accurate Answering: A fine-tuned question-answering model extracts precise answers.
+- Web UI: Built with FastAPI (backend) + Streamlit (frontend) for an interactive experience.
+- Multi-question support: Users can ask multiple questions in one session.
 
 🔥 How It Works
 
