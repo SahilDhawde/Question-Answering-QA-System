@@ -23,7 +23,7 @@ cd Question-Answering-QA-System
 pip install -r requirements.txt
   
 3. Run the Backend (FastAPI):
-uvicorn app.main:app --reload
+uvicorn qa_api:app --reload
    
 4. Run the UI (Streamlit):
 streamlit run app/ui.py
